@@ -5,10 +5,10 @@
 This is the repository where I will store all of my work for Design 6. It will be separated by assignment.
 
 My goals for the semester are:
--To work on and complete at least 2 personal projects
--To succeed and pass all of my classes
--To step outside of my comfort zone and do more activities
--Attend more IEEE meetings
+- To work on and complete at least 2 personal projects
+- To succeed and pass all of my classes
+- To step outside of my comfort zone and do more activities
+- Attend more IEEE meetings
 
 ![IEEE Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/IEEE_logo.svg/1200px-IEEE_logo.svg.png)
 
