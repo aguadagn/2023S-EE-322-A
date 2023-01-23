@@ -9,7 +9,7 @@ My goals for the semester are:
 -To succeed and pass all of my classes
 -To step outside of my comfort zone and do more activities
 
-![This is my cat](https://imgur.com/a/vhZ0Myo)
+![This is my cat](
 
 > Basic git commands to remember:
 ```
