@@ -29,7 +29,7 @@ This produced the followng results:
 
 ![sun, moon, coordinates, address](https://github.com/aguadagn/2023S-EE-322-A/blob/main/Lab_03/sun%2C%20moon%2C%20coordinates%2C%20address.png)
 
-I had a lot of difficulty getting cpu.py and battery.py to work, and was ultimately unsuccessful. I visited the following [stackoverflow thread](https://stackoverflow.com/questions/69644987/why-i-do-get-an-error-when-installing-the-psutil-package-for-python) to find help, but following the steps did not work.
+I had a lot of difficulty getting cpu.py and battery.py to work, and was ultimately unsuccessful. I visited [this](https://stackoverflow.com/questions/69644987/why-i-do-get-an-error-when-installing-the-psutil-package-for-python) stackoverflow thread to find help, but following the steps did not work.
 
 Finally, I ran the command,
 ```
