@@ -49,7 +49,7 @@ Next I ran the following commands
 $ man uname
 ```
 Unfortunately this command did not work. I struggled with solving the problem but ultimately could not figure out how to. This was the error I received.
-![man uname]()
+![man uname](https://github.com/aguadagn/2023S-EE-322-A/blob/main/Lab_02/man%20uname.png)
 
 Next I ran the following commands. I received an error when trying to run ifconfig, so I believe the command was supposed to be ipconfig, which is a commonly known command.
 ```
@@ -59,5 +59,5 @@ $ pin localhost
 $ netstat
 ```
 This was the result I received:
-![uname -a]()
+![uname -a](https://github.com/aguadagn/2023S-EE-322-A/blob/main/Lab_02/uname%20-a.png)
 ![ifconfig - netstat](https://github.com/aguadagn/2023S-EE-322-A/blob/main/Lab_02/ifconfig%20-%20netstat.png)
