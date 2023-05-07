@@ -1,6 +1,6 @@
 # Lab 6 - Node.js and Pystache
 
-First, I installed Node.js[https://nodejs.org/en/download] for Windows.
+First, I installed [Node.js](https://nodejs.org/en/download) for Windows.
 
 Next I changed the current directory to ~\iot\lesson6 and ran the following code:
 ```
